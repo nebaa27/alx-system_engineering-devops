@@ -1,2 +1,4 @@
 #!/bin/bash
 /etc/group
+#!/bin/bash
+groups
